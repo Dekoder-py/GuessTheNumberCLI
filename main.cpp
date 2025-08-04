@@ -11,5 +11,5 @@ int main(){
   cin >> guess;
   } while (guess != secretNumber);
 
-  cout << "You guessed it! The number is " << secretNumber;
+  cout << "You guessed it! The number is " << secretNumber << endl;
 }
