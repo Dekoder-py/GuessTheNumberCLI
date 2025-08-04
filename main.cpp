@@ -12,8 +12,6 @@ int main() {
 
   int guess;
 
-  cout << secretNumber << endl; // DEBUGGING - DELETE LATER
-
   cout << "Guess the number! It's between 1 and 100." << endl;
 
   while (true) {
